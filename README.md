@@ -16,6 +16,6 @@ pati shiva durga mahesh
 
 Srikanth Tiruvaipati
 
-Thomas Chow
+Thomas Chow -TC
 
 Vijesh Jain 
