@@ -4,6 +4,8 @@ This is a change that should cause some issues..
 
 Catherine Shing ..
 
+[Jeffrey Chang](./jeff-chang.md)
+
 Jacqueline Moore ..
 
 Jeffrey Chang ..
