@@ -1,21 +1,27 @@
 OUR TEAM!!
 
-Catherine Shing
+This is a change that should cause some issues..
 
-Jacqueline Moore 
+Catherine Shing ..
 
-Jeffrey Chang 
+Jacqueline Moore ..
 
-Josh Kofsky
+Jeffrey Chang ..
 
-Mehdi Pasha
+Josh Kofsky ..
 
-None None kvaz@salesforce.com
+Mehdi Pasha ..
 
-pati shiva durga mahesh 
+None None kvaz@salesforce.com ..
 
-Srikanth Tiruvaipati
+pati shiva durga mahesh ..
 
+<<<<<<< HEAD
 Thomas Chow -TC
+=======
+Srikanth Tiruvaipati ..
+>>>>>>> main
 
-Vijesh Jain 
+Thomas Chow ..
+
+Vijesh Jain ..
