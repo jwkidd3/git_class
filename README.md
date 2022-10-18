@@ -2,22 +2,22 @@ OUR TEAM!!
 
 This is a change that should cause some issues..
 
-Catherine Shing
+Catherine Shing ..
 
-Jacqueline Moore 
+Jacqueline Moore ..
 
-Jeffrey Chang 
+Jeffrey Chang ..
 
-Josh Kofsky
+Josh Kofsky ..
 
-Mehdi Pasha
+Mehdi Pasha ..
 
-None None kvaz@salesforce.com
+None None kvaz@salesforce.com ..
 
-pati shiva durga mahesh 
+pati shiva durga mahesh ..
 
-Srikanth Tiruvaipati
+Srikanth Tiruvaipati ..
 
-Thomas Chow
+Thomas Chow ..
 
-Vijesh Jain 
+Vijesh Jain ..
