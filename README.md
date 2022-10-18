@@ -1,21 +1,27 @@
 OUR TEAM!!
 
-Catherine Shing
+This is a change that should cause some issues..
 
-Jacqueline Moore 
+Catherine Shing ..
 
-Jeffrey Chang 
+Jacqueline Moore ..
 
-Josh Kofsky
+Jeffrey Chang ..
 
+<<<<<<< HEAD
 soheil Pasha
+=======
+Josh Kofsky ..
+>>>>>>> f8e7ebdca7f463f96b0410b77bdb69000c14aa33
 
-None None kvaz@salesforce.com
+soheil Pasha ..
 
-pati shiva durga mahesh 
+None None kvaz@salesforce.com ..
 
-Srikanth Tiruvaipati
+pati shiva durga mahesh ..
 
-Thomas Chow
+Srikanth Tiruvaipati ..
 
-Vijesh Jain 
+Thomas Chow ..
+
+Vijesh Jain ..
