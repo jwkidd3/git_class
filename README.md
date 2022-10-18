@@ -4,7 +4,7 @@ Catherine Shing
 
 Jacqueline Moore 
 
-Jeffrey Chang 
+[Jeffrey Chang](./jeff-chang.md)
 
 Josh Kofsky
 
