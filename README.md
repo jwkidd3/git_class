@@ -14,7 +14,7 @@ None None kvaz@salesforce.com
 
 pati shiva durga mahesh 
 
-Srikanth Tiruvaipati
+Sri Tiruvaipati
 
 Thomas Chow
 
